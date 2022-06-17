@@ -89,7 +89,6 @@ body {
     color: var(--first-accent-color);
 }
 
-
 .header-item:not(:last-child) {
     margin-right: 50px;
 }
@@ -480,7 +479,6 @@ body {
     border: 1px solid var(--first-accent-color);
     border-radius: 4px;
 }
-
 
 .footer {
     background-color: var(--forth-background-color);
